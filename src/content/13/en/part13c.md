@@ -505,7 +505,7 @@ The current code for the application is in its entirety on [GitHub](https://gith
 
 ### Exercises 13.17-13.18.
 
-#### Exercise 13.17.
+#### Exercise 13.17. 
 
 Delete all tables from your application's database.
 
